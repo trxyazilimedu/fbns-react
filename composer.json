@@ -1,5 +1,5 @@
 {
-    "name": "nextpost-tech/fbns-react",
+    "name": "nextpost-tech/fbns-react-php",
     "description": "A PHP client for the FBNS built on top of ReactPHP",
     "keywords": [
         "FBNS",
@@ -30,10 +30,10 @@
         "ext-mbstring": "*",
         "ext-zlib": "*",
         "evenement/evenement": "~2.0|~3.0",
-        "react/event-loop": "^0.4.3",
+        "react/event-loop": "^1.1",
         "react/promise": "~2.0",
         "react/socket": "~0.8",
-        "nextpost-tech/net-mqtt": "^1.0",
+        "nextpost-tech/net-mqtt-php": "^1.0",
         "psr/log": "~1.0"
     },
     "require-dev": {
