@@ -1,5 +1,5 @@
 {
-    "name": "nextpost-tech/fbns-react",
+    "name": "mjcodebase/fbns-react",
     "description": "A PHP client for the FBNS built on top of ReactPHP",
     "keywords": [
         "FBNS",
@@ -15,8 +15,8 @@
             "email": "valga.github@abyrga.ru"
         },
         {
-            "name": "Nextpost.tech",
-            "homepage": "https://nextpost.tech/",
+            "name": "Michael Johnson",
+            "homepage": "https://t.me/mjohnsoncode ",
             "role": "Developer"
         }
     ],
@@ -33,7 +33,7 @@
         "react/event-loop": "0.4.3",
         "react/promise": "^2.7",
         "react/socket": "^1.3",
-        "nextpost-tech/net-mqtt": "^1.0",
+        "mjcodebase/net-mqtt": "^1.0",
         "psr/log": "^1.0"
     },
     "require-dev": {
